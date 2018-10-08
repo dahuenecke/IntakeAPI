@@ -1,0 +1,14 @@
+c:\users\dhuen\Source\Repos\IntakeApi\IntakeApi\bin\Debug\netcoreapp2.1\IntakeApi.deps.json
+c:\users\dhuen\Source\Repos\IntakeApi\IntakeApi\bin\Debug\netcoreapp2.1\IntakeApi.runtimeconfig.json
+c:\users\dhuen\Source\Repos\IntakeApi\IntakeApi\bin\Debug\netcoreapp2.1\IntakeApi.runtimeconfig.dev.json
+c:\users\dhuen\Source\Repos\IntakeApi\IntakeApi\bin\Debug\netcoreapp2.1\IntakeApi.dll
+c:\users\dhuen\Source\Repos\IntakeApi\IntakeApi\obj\Debug\netcoreapp2.1\IntakeApi.csprojAssemblyReference.cache
+c:\users\dhuen\Source\Repos\IntakeApi\IntakeApi\obj\Debug\netcoreapp2.1\IntakeApi.csproj.CoreCompileInputs.cache
+c:\users\dhuen\Source\Repos\IntakeApi\IntakeApi\obj\Debug\netcoreapp2.1\IntakeApi.RazorAssemblyInfo.cache
+c:\users\dhuen\Source\Repos\IntakeApi\IntakeApi\obj\Debug\netcoreapp2.1\IntakeApi.RazorAssemblyInfo.cs
+c:\users\dhuen\Source\Repos\IntakeApi\IntakeApi\obj\Debug\netcoreapp2.1\IntakeApi.AssemblyInfoInputs.cache
+c:\users\dhuen\Source\Repos\IntakeApi\IntakeApi\obj\Debug\netcoreapp2.1\IntakeApi.AssemblyInfo.cs
+c:\users\dhuen\Source\Repos\IntakeApi\IntakeApi\obj\Debug\netcoreapp2.1\IntakeApi.RazorTargetAssemblyInfo.cache
+c:\users\dhuen\Source\Repos\IntakeApi\IntakeApi\bin\Debug\netcoreapp2.1\IntakeApi.pdb
+c:\users\dhuen\Source\Repos\IntakeApi\IntakeApi\obj\Debug\netcoreapp2.1\IntakeApi.dll
+c:\users\dhuen\Source\Repos\IntakeApi\IntakeApi\obj\Debug\netcoreapp2.1\IntakeApi.pdb
